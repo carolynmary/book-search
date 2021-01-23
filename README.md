@@ -5,11 +5,12 @@
 
 <!-- ![logo](pathToFileHere) -->
 # Google Book Search   
-[liveSite](url)
+[book-search-cm.herokuapp.com](https://book-search-cm.herokuapp.com/)
  
 - - -
 - - -
-### xxxxxxx
+### Use this application to search for books and save them to your list! Go back any time to reference your list and delete the book after you've read it. 
+
 - - -
 - - -
 
@@ -18,7 +19,7 @@
   
 ## How to Use 
 
-![demo](pathToFileHere)
+![demo](./assets/bookSearchDemo.gif)
 
 ## Credits
   
